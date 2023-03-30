@@ -1,6 +1,7 @@
+# Web dev assignment
+.idea
+node_modules
 # Default ignored files
-/.idea
-/node_modules
 /shelf/
 /.idea/workspace.xml
 # Editor-based HTTP Client requests
